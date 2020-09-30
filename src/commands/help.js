@@ -22,6 +22,9 @@ let attachments = [
     color: '#E3E4E6',
     text: '`/starbot help` ... you\'re lookin at it! \n',
     mrkdwn_in: ['text']
+  },
+  {
+    text: '`koty 2020:` rusty'
   }
 ]
 
